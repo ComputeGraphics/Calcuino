@@ -28,8 +28,8 @@ long e = 0L; // 2. Zahl der Rechnung
 long t = 0L; // 1. Zahl der Rechnung
 byte z = 0; // Rechenzeichen Cache
 long o = 0L; // 2. Zahl Endergebnis für Seriellen Monitor, um Ergebnisse zu überprüfen
-long p = 0L;// Für ... wen Zahl zu lange ist
-long u = 0L;// Cache für ...
+long p = 0L;// Für ... wenn Zahl zu lange ist
+long u = 0L;// Cache für ... bei Rechnungen
 byte on_changed = 0;//Für ... wenn T zu lang ist
 byte on_changed_e = 0;//Für ... wenn 2. Zahl zu lang ist
 //////////////////////////////////////////
